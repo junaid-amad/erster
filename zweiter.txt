@@ -5,6 +5,9 @@ Farbpalette
 
 Rot
 Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
+
 Sind alles tolle Farben.
